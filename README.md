@@ -16,9 +16,5 @@ Note: if you are interested in emacs and are on macos, i would highly recommend 
 
 
 ![desktop](screenshots/kitty.png)
-
 ![desktop](screenshots/firefox.png)
-
-
-
 ![desktop](screenshots/workflow.png)
