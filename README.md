@@ -14,14 +14,11 @@ Browser: Firefox with text-tui theme and sideberry extension <br>
 
 Note: if you are interested in emacs and are on macos, i would highly recommend watching this [installation tutorial](https://www.youtube.com/watch?v=A6SxH9lUWV0&t=498s&pp=ygUVZG9vbSBlbWFjcyBwbHVzIG1hY29z) 
 
-<br>
 
 ![desktop](screenshots/kitty.png)
 
-<br>
-
 ![desktop](screenshots/firefox.png)
 
-<br>
+
 
 ![desktop](screenshots/workflow.png)
