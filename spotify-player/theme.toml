@@ -1,0 +1,115 @@
+[[themes]]
+name = "gruvbox"
+
+[themes.palette]
+background = "#282828"        # Light background for Ayu Light
+foreground = "#fafafa"        # Dark gray for main text
+black = "#1f2430"             # Very dark gray (for black)
+red = "#8DC07C"               # Blue for red accents
+green = "#8DC07C"             # Blue for green accents
+yellow = "#D3859B"            # Purple for yellow accents
+blue = "#8DC07C"              # Blue as the primary accent
+magenta = "#D3859B"           # Purple for magenta
+cyan = "#8DC07C"              # Blue for cyan
+white = "#fafafa"             # Light gray for white
+
+bright_black = "#fafafa"      # Darker gray for bright black
+bright_red = "#8DC07C"        # Brighter blue for red
+bright_green = "#8DC07C"      # Brighter blue for green
+bright_yellow = "#D3859B"     # Brighter purple for yellow
+bright_blue = "#8DC07C"       # Brighter blue
+bright_magenta = "#D3859B"    # Brighter purple for magenta
+bright_cyan = "#8DC07C"       # Brighter blue for cyan
+bright_white = "#ffffff"      # Pure white for bright white
+
+[themes.components]
+# Basic display settings
+status_bar_background = "background"
+status_bar_foreground = "foreground"
+
+# Progress bar settings
+playback_progress_bar = "#8DC07C"             # The filled portion of the progress bar (blue)
+playback_progress_bar_unfilled = "bright_black"  # The unfilled portion of the progress bar
+
+# Timestamp and playback metadata settings
+playback_metadata = "bright_white"         # Make the timestamp white (used in playback info)
+playback_progress_time = "bright_white"    # Ensure timestamp of progress bar is white
+current_playing = "foreground"             # Color of current song name or metadata
+
+# Playback details
+playback_status = "foreground"
+playback_track = "foreground"
+playback_artists = "bright_black"
+playback_album = "bright_black"
+
+# Control buttons in blue for consistency
+playback_controls = "8DC07C"
+like = "8DC07C"
+
+# Other components
+block_title = "foreground"
+border = "bright_black"
+page_desc = "foreground"
+table_header = "foreground"
+selection = "8DC07C"  # Blue for selection
+secondary_row = "bright_black"
+
+
+
+[[themes]]
+name = "nord"
+
+[themes.palette]
+background = "#2e3440"        # Base background
+foreground = "#eceff4"        # Light foreground (Nord text)
+black = "#2e3440"             # Darkest shade
+red = "#b48ead"               # Primary highlight
+green = "#a3be8c"             # Fourth highlight (green accent)
+yellow = "#b48ead"            # Reuse primary highlight for yellow slot
+blue = "#81a1c1"              # Secondary highlight (soft blue)
+magenta = "#b48ead"           # Primary highlight
+cyan = "#5e81ac"              # Third highlight (deep blue)
+white = "#eceff4"             # Light gray-white
+
+bright_black = "#4c566a"      # Slightly lighter than base
+bright_red = "#b48ead"        # Brightened primary
+bright_green = "#a3be8c"      # Brightened fourth highlight
+bright_yellow = "#b48ead"     # Brightened primary
+bright_blue = "#81a1c1"       # Brightened secondary highlight
+bright_magenta = "#b48ead"    # Brightened primary
+bright_cyan = "#5e81ac"       # Brightened third highlight
+bright_white = "#ffffff"      # Pure white
+
+
+[themes.components]
+# Status bar
+status_bar_background = "background"
+status_bar_foreground = "foreground"
+
+# Progress bar
+playback_progress_bar = "#81a1c1"                 # Secondary highlight (soft blue fill)
+playback_progress_bar_unfilled = "bright_black"   # Empty part muted
+
+# Metadata + timestamps
+playback_metadata = "bright_white"      # Metadata text
+playback_progress_time = "bright_white" # Progress time shown in white
+current_playing = "foreground"          # Currently playing track
+
+# Playback info
+playback_status = "white"             # Shuffle/repeat/etc. in custom light gray-blue
+playback_track = "foreground"
+playback_artists = "bright_black"
+playback_album = "bright_black"
+
+# Controls
+playback_controls = "#5e81ac"   # Third highlight
+like = "#a3be8c"                # Fourth highlight (greenish tone)
+
+# UI elements
+block_title = "foreground"
+border = "bright_black"
+page_desc = "foreground"
+table_header = "foreground"
+selection = "#b48ead"           # Primary highlight for selection
+secondary_row = "bright_black"
+
