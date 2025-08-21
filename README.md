@@ -16,5 +16,12 @@ Note: if you are interested in emacs and are on macos, i would highly recommend 
 
 <br>
 
+![desktop](screenshots/desktop.png)
 
+<br>
 
+![desktop](screenshots/firefox.png)
+
+<br>
+
+![desktop](screenshots/workflow.png)
