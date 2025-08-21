@@ -8,7 +8,7 @@ WM: [yabai](https://github.com/koekeishiya/yabai) <br>
 Bar: [Sketchybar](https://github.com/FelixKratz/SketchyBar) <br>
 Terminal: [kitty](https://sw.kovidgoyal.net/kitty/) <br>
 Emacs: [Doom Emacs w/ Org Mode](https://github.com/doomemacs/doomemacs)  <br>
-Text-Editor: [Neovim](https://github.com/neovim/neovim)
+Text-Editor: [Neovim](https://github.com/neovim/neovim) <br>
 Browser: Firefox with text-tui theme and sideberry extension <br>
 
 
