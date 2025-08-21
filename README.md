@@ -16,7 +16,7 @@ Note: if you are interested in emacs and are on macos, i would highly recommend 
 
 <br>
 
-![desktop](screenshots/desktop.png)
+![desktop](screenshots/kitty.png)
 
 <br>
 
